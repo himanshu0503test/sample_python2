@@ -19,3 +19,5 @@ script:
 notifications:
   email:
    - hemanshu0503@gmail.com
+
+archive: true
