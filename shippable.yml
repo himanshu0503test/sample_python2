@@ -20,4 +20,4 @@ notifications:
   email:
    - coderscode@gmail.com
 
-archive: false
+archive: true
